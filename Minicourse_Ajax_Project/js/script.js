@@ -29,7 +29,7 @@ function loadData() {
 
 
     // NY Times API
-    var nytURL = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + cityvalue + "&sort=newest&api-key=28cf1440dbd347e0a14b2c708a83f9a9";
+    var nytURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + cityvalue + "&sort=newest&api-key=28cf1440dbd347e0a14b2c708a83f9a9";
     
 //        }) + '&callback=svc_search_v2_articlesearch';
     
